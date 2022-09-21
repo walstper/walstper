@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walstper
 - 👀 I’m interested in living my life as I want 👌
-- 💼 My my job as DevOps engineer
+- 💼 My job is DevOps engineer
 - 🔧 I’m currently learning Docker Swarm / k8s and home automation
 -  How to reach me - https://t.me/Walstper
 
