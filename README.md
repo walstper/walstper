@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @walstper
-- 👀 I’m interested in living my life as I want 👌
-- 💼 My job is DevOps engineer
-- 🔧 I’m currently learning Docker Swarm / k8s and home automation
--  How to reach me - https://t.me/Walstper
-
-<!---
-walstper/walstper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Roman.
+- 👀 I’m interested in DevOps culture / ITOps / Software Development
+- 💼 My current position is DevOps engineer
+- 🌱🌱🌱 I’m currently learning k8s and home automation
+- How to reach me - [LinkedIn](https://www.linkedin.com/in/roman-zhukov-b837b7a5/)
